@@ -58,11 +58,11 @@ In Ubuntu 10.04 you can install the above using the following commands:
 Installation
 ------------
 
-.. image:: https://pypip.in/v/collective.transcode.star/badge.png
+.. image:: https://img.shields.io/pypi/v/collective.transcode.star.svg
     :target: https://crate.io/packages/collective.transcode.star/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/collective.transcode.star/badge.png
+.. image:: https://img.shields.io/pypi/dm/collective.transcode.star.svg
     :target: https://crate.io/packages/collective.transcode.star/
     :alt: Number of PyPI downloads
 
